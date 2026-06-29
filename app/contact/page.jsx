@@ -1,8 +1,8 @@
 import {Header, Footer} from '../components';
 export default function Contact(){
  return <main className="page"><Header/>
-  <section className="shell panel">
-   <h1 className="title">CONTACT</h1>
+  <section className="shell panel" style={{padding:'34px'}}>
+   <h1 className="glow-title">CONTACT</h1>
    <p className="muted">Email: info@pephauscompounds.com</p>
    <form className="form">
     <input placeholder="Your Name"/>

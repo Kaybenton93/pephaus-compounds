@@ -1,3 +1,3 @@
 # Pephaus Compounds
 
-GitHub-ready website project.
+Updated internal pages to match approved homepage design.
