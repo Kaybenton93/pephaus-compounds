@@ -1,0 +1,9 @@
+import {Header, Footer, compounds} from '../components';
+export default function Coas(){
+ return <main className="page"><Header/>
+  <section className="shell panel">
+   <h1 className="title">CERTIFICATES OF ANALYSIS</h1>
+   <p className="muted">View and download COA documentation for complete transparency.</p>
+   {compounds.map(c=><div className="row" key={c.slug}><strong>{c.name} {c.amount}</strong><a className="btn" href="#">DOWNLOAD COA</a></div>)}
+  </section><Footer/></main>
+}

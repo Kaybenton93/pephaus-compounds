@@ -1,1 +1,3 @@
-# pephaus-compounds
+# Pephaus Compounds
+
+GitHub-ready website project.
