@@ -1,3 +1,3 @@
 # Pephaus Compounds
 
-Complete restart project. Upload all contents to GitHub root.
+Final exact site: approved homepage plus left-list/right-detail shop page.

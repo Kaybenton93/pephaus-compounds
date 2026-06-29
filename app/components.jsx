@@ -1,12 +1,12 @@
 import Link from 'next/link';
 
 export const compounds = [
-  {slug:'bpc-157', name:'BPC-157', amount:'10MG', price:'$59.99'},
-  {slug:'tb-500', name:'TB-500', amount:'10MG', price:'$59.99'},
-  {slug:'ghk-cu', name:'GHK-CU', amount:'50MG', price:'$59.99'},
-  {slug:'nad-plus', name:'NAD+', amount:'500MG', price:'$59.99'},
-  {slug:'mots-c', name:'MOTS-C', amount:'10MG', price:'$59.99'},
-  {slug:'cjc-1295-no-dac', name:'CJC-1295 NO DAC', amount:'10MG', price:'$59.99'}
+  {slug:'bpc-157', name:'BPC-157', amount:'10MG', price:'$59.99', desc:'Research-use catalog listing with documentation and COA access.'},
+  {slug:'tb-500', name:'TB-500', amount:'10MG', price:'$59.99', desc:'Research-use catalog listing with product documentation and COA access.'},
+  {slug:'ghk-cu', name:'GHK-CU', amount:'50MG', price:'$59.99', desc:'Copper peptide research listing with documentation and COA access.'},
+  {slug:'nad-plus', name:'NAD+', amount:'500MG', price:'$59.99', desc:'Research-use NAD+ listing with documentation and COA access.'},
+  {slug:'mots-c', name:'MOTS-C', amount:'10MG', price:'$59.99', desc:'Research-use MOTS-C listing with documentation and COA access.'},
+  {slug:'cjc-1295-no-dac', name:'CJC-1295 NO DAC', amount:'10MG', price:'$59.99', desc:'Research-use CJC-1295 NO DAC listing with documentation and COA access.'}
 ];
 
 export function Header(){
