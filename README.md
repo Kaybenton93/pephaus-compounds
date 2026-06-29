@@ -1,3 +1,3 @@
 # Pephaus Compounds
 
-Updated internal pages to match approved homepage design.
+Complete restart project. Upload all contents to GitHub root.
